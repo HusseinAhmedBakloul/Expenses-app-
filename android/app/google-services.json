@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808838335038",
+    "project_id": "fir-expense-74b5e",
+    "storage_bucket": "fir-expense-74b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808838335038:android:7b8dd11f1c0c6b4daf5f6f",
+        "android_client_info": {
+          "package_name": "com.example.MasterMind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIEA-V8w_fmfBMoS7rvuzbC5pR3UhKYiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
